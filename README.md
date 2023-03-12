@@ -1,2 +1,2 @@
-# victorin
-it's a board
+# Victorin
+answer the questions 
